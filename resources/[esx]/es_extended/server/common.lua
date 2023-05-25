@@ -102,7 +102,7 @@ MySQL.ready(function()
 		ESX.Jobs = Jobs
 	end
 
-	print('[^2INFO^7] ^6NG Base^0 initialized')
+	print('[^2INFO^7] ^6CANARIO HOSTING BASE^0 initialized')
 	StartDBSync()
 	StartPayCheck()
 end)

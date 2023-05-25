@@ -1,6 +1,6 @@
 ESX = nil
 
-local ng = "[NG BASE] - PERSONAL MENU"
+local ng = "[CANARIO HOSTING BASE] - PERSONAL MENU"
 
 print(ng)
 
